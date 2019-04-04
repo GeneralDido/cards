@@ -2,7 +2,7 @@ from os import system
 import random
 
 # suppose 6 players + 4 types of cards Hearts (h),Diamonds(d), Clubs (c), Spades (s)
-# 13 * 4 = 52 cards
+# 12 * 4 = 48 cards
 
 
 # initialize
